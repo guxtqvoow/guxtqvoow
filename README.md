@@ -15,9 +15,11 @@
   <img width="12" />
   
 
+###
+
 </div>
 
-<img align="left" height="500" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzV2ZHpxYzF3Yjc2aXlwdmVuc3huanR2dmRqZjBpMTZ4cml1cTZ5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/chMmtwzdjowlM3fKZq/giphy.gif"  />
+<img align="left" height="600" src="https://i.pinimg.com/originals/2c/3a/4a/2c3a4a73e773f68702ce8973f4e5979e.jpg"  />
 
 ###
 
@@ -33,6 +35,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/guxtqvoow/guxtqvoow/output/snake.svg" alt="Snake animation" />
+
 
 ###
