@@ -20,7 +20,7 @@
 
 </div>
 
-<img align="left" height="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG8ydnRpZ284Y2h0bDBwOTMxNDA4YW16amRtMm45MmhwOGdlZ2E1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.webp"  />
+<img align="left" height="600" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG8ydnRpZ284Y2h0bDBwOTMxNDA4YW16amRtMm45MmhwOGdlZ2E1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.webp"  />
 
 ###
 
